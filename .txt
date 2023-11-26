@@ -1,0 +1,38 @@
+@1] https://www.flipkart.com/search?q=realme&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off
+
+1)realme 11x 5G (Purple Dawn, 128 GB)--------------FixedElement
+   ₹15,999------------------------------------------------------------------Dynamic Element
+2)(//div[text()='realme 11x 5G (Purple Dawn, 128 GB)'])[1]-----------Xpath for fixed Element
+
+3)(//div[text()='realme 11x 5G (Purple Dawn, 128 GB)'])[1]/../..  -------------Backward traversing
+
+4)(//div[text()='realme 11x 5G (Purple Dawn, 128 GB)'])[1]/../..//div[@class='_30jeq3 _1_WHN1']  --------------------------Xpath for Dynamic Element(Fixed element+Dynamic Element)
+
+===============================================================================================================
+
+@2] https://www.flipkart.com/search?q=realme&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off
+
+1)realme C55 (Rainforest, 64 GB)--------------FixedElement
+    ₹11,999------------------------------------------------------------------Dynamic Element
+
+2)(//div[text()='realme C55 (Rainforest, 64 GB)'])[1]-----------Xpath for fixed Element
+
+3)(//div[text()='realme C55 (Rainforest, 64 GB)'])[1]/../..   -------------Backward traversing
+
+4)(//div[text()='realme C55 (Rainforest, 64 GB)'])[1]/../..//div[@class='_30jeq3 _1_WHN1']  --------------------------Xpath for Dynamic Element(Fixed element+Dynamic Element)
+
+===============================================================================================================
+
+@3] https://www.flipkart.com/search?q=realme&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off&page=2
+
+1)realme 10 Pro 5G (Nebula Blue, 128 GB)--------------FixedElement
+    ₹17,999------------------------------------------------------------------Dynamic Element
+
+2)(//div[text()='realme 10 Pro 5G (Nebula Blue, 128 GB)'])[1]-----------Xpath for fixed Element
+
+3)(//div[text()='realme 10 Pro 5G (Nebula Blue, 128 GB)'])[1]/../..  -------------Backward traversing
+
+4)(//div[text()='realme 10 Pro 5G (Nebula Blue, 128 GB)'])[1]/../..//div[@class='_30jeq3 _1_WHN1']  --------------------------Xpath for Dynamic Element(Fixed element+Dynamic Element)
+
+===============================================================================================================
+
